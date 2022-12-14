@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133569561972",
+    "project_id": "tour-app-37510",
+    "storage_bucket": "tour-app-37510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133569561972:android:3d9506510411694805d821",
+        "android_client_info": {
+          "package_name": "com.example.selter_tore_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133569561972-v1hlsajqkj0i1ave7m4l6e22t8o0ivh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSsDF76wc_DuQqLKi6ZLPBDYT4g0jonHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133569561972-v1hlsajqkj0i1ave7m4l6e22t8o0ivh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
